@@ -1,3 +1,4 @@
-A = 2
+import numpy as np 
+# libreria para ejecutar y convertir el hash
 
-print(A)
+# This will be an example of proof of work 
